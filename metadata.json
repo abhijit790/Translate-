@@ -1,0 +1,6 @@
+{
+  "name": "Offline Translator",
+  "description": "Translate English, Bengali, Hindi, and Spanish offline with speech synthesis, notifications, history, and search features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
